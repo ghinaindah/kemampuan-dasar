@@ -1,10 +1,4 @@
-# Materi Pembelajaran
+# Informasi tentang saya
 
-Repo ini berisi berbagai materi pembelajarn untuk kelas di **Praxis Academy**. Sebelum masuk ke
-kelas, pastikan bahwa setiap siswa telah menyelesaikan [materi kemampuan dasar](kemampuan-dasar.md).
 
-1. [Enterprise Full Stack Developer](enterprise-full-stack/)
-2. [Enterprise Python Developer](enterprise-python/)
-3. [Enterprise Front End Developer](enterprise-front-end/)
-4. [Mobile Application Developer](mobile-app-dev/)
-5. [Node.js Programming](node.js/)
+Saya bingung mengerjakan tugasnya, karena itu saya mengerjakan apa yang saya bisa kerjakan, namun jika dikasih kesempatan untuk belajar langsung di tempat praxis untuk mngerjakan ketinggalan pada sebelum hari H kelas dimulai, saya bersedia, agar saya bisa memahami dasar-dasar menggunakan tools-tools sperti github untuk menunjang saya untuk memahami pengerjaan tugas-tugas bootcamp
